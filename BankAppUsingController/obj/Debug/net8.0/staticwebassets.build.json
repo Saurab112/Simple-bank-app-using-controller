@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "e3NZWgASrDQ1+Za2MmDpQLl9ssdVyp5chiVejFeM+SU=",
+  "Source": "BankAppUsingController",
+  "BasePath": "_content/BankAppUsingController",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankAppUsingController\\wwwroot",
+      "Source": "BankAppUsingController",
+      "ContentRoot": "C:\\Users\\Acer\\Desktop\\BankAppUsingController\\BankAppUsingController\\wwwroot\\",
+      "BasePath": "_content/BankAppUsingController",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Acer\\Desktop\\BankAppUsingController\\BankAppUsingController\\wwwroot\\dummy.pdf",
+      "SourceId": "BankAppUsingController",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\Desktop\\BankAppUsingController\\BankAppUsingController\\wwwroot\\",
+      "BasePath": "_content/BankAppUsingController",
+      "RelativePath": "dummy#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kv4yhyl50m",
+      "Integrity": "MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummy.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "dummy.kv4yhyl50m.pdf",
+      "AssetFile": "C:\\Users\\Acer\\Desktop\\BankAppUsingController\\BankAppUsingController\\wwwroot\\dummy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "258126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 04:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kv4yhyl50m"
+        },
+        {
+          "Name": "label",
+          "Value": "dummy.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0="
+        }
+      ]
+    },
+    {
+      "Route": "dummy.pdf",
+      "AssetFile": "C:\\Users\\Acer\\Desktop\\BankAppUsingController\\BankAppUsingController\\wwwroot\\dummy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "258126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 04:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0="
+        }
+      ]
+    }
+  ]
+}

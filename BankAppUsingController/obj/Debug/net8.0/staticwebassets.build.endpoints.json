@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "dummy.kv4yhyl50m.pdf",
+      "AssetFile": "dummy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "258126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 04:00:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kv4yhyl50m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0="
+        },
+        {
+          "Name": "label",
+          "Value": "dummy.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "dummy.pdf",
+      "AssetFile": "dummy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "258126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 04:00:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MFaxOaBXmxAvx/e5+nAa6utAb4REcFfpxqQNKgDSml0="
+        }
+      ]
+    }
+  ]
+}
